@@ -2,7 +2,7 @@
 ## Summary          : R Script to create a basic plots
 ## Source of Data   : UC Irvine Machine Learning Repository,
 ## Data set         : Electric power consumption [20Mb]
-## Description      : Create a plot for Energy sub metering r 
+## Description      : Create a plot for Energy sub metering
 ##                    between the dates of Feb 1 and Feb 2 of 2007
 ## Assumptions      : Creating files in current working directory is allowed
 ################################################################################
